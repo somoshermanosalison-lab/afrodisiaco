@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51180242732",
+    "project_id": "afrodisiaco-1d95c",
+    "storage_bucket": "afrodisiaco-1d95c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51180242732:android:46cc0b6c3d093533cb4e89",
+        "android_client_info": {
+          "package_name": "com.example.afrodisiaco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvm16VCHx5vE1Ggb2p-bNwzQG-JHjcnZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
